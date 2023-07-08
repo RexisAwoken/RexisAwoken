@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
+I don't have much to add here yet but I know how to code in HTML/CSS and JS so far. I don't code a lot but I'm open to helping and thinking of ideas.
+<br>
+Discord: baller83
+
 <!--
 **RexisAwoken/RexisAwoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
