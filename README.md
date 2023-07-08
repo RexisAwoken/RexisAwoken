@@ -10,6 +10,7 @@ Discord: baller83
 So far I've coded a few discord bots in JavaScript and a few websites in HTML/CSS. My most recent project was a coding a website in HTML/CSS.
 <br>
 I don't know how to host projects on a server yet but I do want to learn.
+<h1 align="center">Thanks for stopping by!</h1>
 <!--
 <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
 **RexisAwoken/RexisAwoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
